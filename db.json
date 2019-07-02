@@ -1,40 +1,4 @@
 {
-   "DATE": {
-      "rain": "RR",
-      "lowcut": "TN",
-      "reson": "TX",
-      "highcut": "TM",
-      "pression": "PMERM",
-      "wind_s": "FXY",
-      "wind_d": "DXY",
-      "wet": "UM",
-      "FIELD10": "",
-      "FIELD11": ""
-   },
-   "valeur MINI": {
-      "rain": "0",
-      "lowcut": "-7",
-      "reson": "0",
-      "highcut": "0,5",
-      "pression": "979,9",
-      "wind_s": "2,9",
-      "wind_d": "10",
-      "wet": "64",
-      "FIELD10": "",
-      "FIELD11": ""
-   },
-   "valeur MAXI": {
-      "rain": "31,8",
-      "lowcut": "17,6",
-      "reson": "28,6",
-      "highcut": "20,4",
-      "pression": "1038,1",
-      "wind_s": "19,2",
-      "wind_d": "360",
-      "wet": "100",
-      "FIELD10": "",
-      "FIELD11": ""
-   },
    "2018/01/01": {
       "rain": "3,5",
       "lowcut": "8,3",
