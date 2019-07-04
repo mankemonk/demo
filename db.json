@@ -1,17 +1,17 @@
-{
-   "2018/01/01": {
-      "rain" "3.5",
-      "lowcut": "8,3",
-      "reson": "11,3",
-      "highcut": "9,9",
+[
+    {
+      "rain" 3.5,
+      "lowcut": 8.3,
+      "reson": 11.3,
+      "highcut": 9.9,
       "pression": "",
-      "wind_s": "17,3",
-      "wind_d": "260",
+      "wind_s": 17,3,
+      "wind_d": 260,
       "wet": "",
       "FIELD10": "",
       "FIELD11": ""
    },
-   "2018/01/02": {
+   {
       "rain": "1,2",
       "lowcut": "8,9",
       "reson": "14,3",
